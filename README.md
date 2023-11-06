@@ -2,7 +2,7 @@
 **Muzychenko Sergey**
 
 Скриншот-1 к заданию 1:
-![Настройки](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)
+![Настройки](https://github.com/SergeyMuzychenko/sdvps-materials/blob/main/Nastroiki.png)
 Скриншот-2 к заданию 1:
 ![Результат](/home/ubuntu/Pictures/Screenshots/Rezultat.png)
 3:
