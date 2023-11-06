@@ -2,10 +2,10 @@
 **Muzychenko Sergey**
 
 *Настройки*
-![img]~/Pictures/Screenshots/Nastroiki.png
+~/Pictures/Screenshots/Nastroiki.png
 
 *Результат*
-![img]~/Pictures/Screenshots/Rezultat.png
+~/Pictures/Screenshots/Rezultat.png
 
 
 ## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
