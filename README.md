@@ -1,3 +1,13 @@
+**Домашнее задание к занятию «Что такое DevOps. СI/СD»**
+**Muzychenko Sergey**
+
+*Настройки*
+![img]Home/Pictures/Screenshots/Nastroiki.png
+
+*Результат*
+![img]Home/Pictures/Screenshots/Rezultat.png
+
+
 ## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
 
 
