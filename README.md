@@ -4,9 +4,7 @@
 Скриншот-1 к заданию 1:
 ![Настройки](https://github.com/SergeyMuzychenko/sdvps-materials/blob/main/Nastroiki.png)
 Скриншот-2 к заданию 1:
-![Результат](/home/ubuntu/Pictures/Screenshots/Rezultat.png)
-3:
-![3](~/Pictures/Screenshots/Nastroiki.png)
+![Результат](https://github.com/SergeyMuzychenko/sdvps-materials/blob/main/Rezultat.png)
 
 
 ## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
