@@ -2,9 +2,11 @@
 **Muzychenko Sergey**
 
 *Настройки*
+
 ![/home/ubuntu/Pictures/Screenshots/](Nastroiki.png)
 
 *Результат*
+
 ![~/Pictures/Screenshots](Rezultat.png)
 
 
