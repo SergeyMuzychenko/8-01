@@ -1,13 +1,12 @@
 **Домашнее задание к занятию «Что такое DevOps. СI/СD»**
 **Muzychenko Sergey**
 
-*Настройки*
-
-![/home/ubuntu/Pictures/Screenshots/](Nastroiki.png)
-
-*Результат*
-
-![~/Pictures/Screenshots](Rezultat.png)
+Скриншот-1 к заданию 1:
+![Настройки](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)
+Скриншот-2 к заданию 1:
+![Результат](/home/ubuntu/Pictures/Screenshots/Rezultat.png)
+3:
+![3](~/Pictures/Screenshots/Nastroiki.png)
 
 
 ## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
