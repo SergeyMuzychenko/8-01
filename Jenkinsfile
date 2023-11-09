@@ -18,7 +18,7 @@ pipeline {
   }
   stage('Push') {
    steps {
-    sh 'docker login ubuntu:8082 -u admin -p admin && docker push ubuntu:8082/hello-world:v$BUILD_NUMBER && docker logout'   }
+    sh 'docker login ubuntu:8082 -u admin --password-stdin admin && docker push ubuntu:8082/hello-world:v$BUILD_NUMBER && docker logout'   }
   }
  }
 }
