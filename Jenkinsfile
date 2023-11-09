@@ -13,7 +13,7 @@ pipeline {
   }
   stage('Build') {
    steps {
-    sh 'docker build . -t ubuntu-bionic:8082/hello-world:v$BUILD_NUMBER'
+    build 'go build -a -installsuffix nocgo -o /app .'
    }
   }
   stage('Push') {
