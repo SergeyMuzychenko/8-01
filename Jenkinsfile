@@ -13,7 +13,7 @@ pipeline {
   }
   stage('Build') {
    steps {
-    build 'go build -a -installsuffix nocgo -o /app .'
+    build '/usr/local/go/bin/go build -a -installsuffix nocgo -o /app .'
    }
   }
   stage('Push') {
