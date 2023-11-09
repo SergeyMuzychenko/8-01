@@ -6,6 +6,11 @@
 Скриншот-2 к заданию 1:
 ![Результат](https://github.com/SergeyMuzychenko/sdvps-materials/blob/main/Rezultat.png)
 
+Скриншот-1 к заданию 2:
+![Настройки](https://github.com/SergeyMuzychenko/sdvps-materials/blob/main/nastroiki_pipline.png)
+Скриншот-2 к заданию 2:
+![Результат](https://github.com/SergeyMuzychenko/sdvps-materials/blob/main/rezultat_pipline.png)
+
 
 ## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
 
