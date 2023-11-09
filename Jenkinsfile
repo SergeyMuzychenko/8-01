@@ -8,7 +8,7 @@ pipeline {
   }
   stage('Test') {
    steps {
-    sh 'go test .'
+    sh '/usr/local/go/bin/go test .'
    }
   }
   stage('Build') {
