@@ -3,7 +3,7 @@ pipeline {
  stages {
   stage('Git') {
    steps {
-    git 'https://github.com/SergeyMuzychenko/sdvps-materials.git'
+    git 'https://github.com/SergeyMuzychenko/sdvps-materials'
    }
   }
   stage('Test') {
